@@ -1,3 +1,3 @@
-# webdev-bootcamp
+# webdev-bootcamp-netflix-clone
 
-Repositório de projetos feitos no BootCamp de Web Developer da Digital Innovation One: https://digitalinnovation.one/
+Repositório do projeto Netflix clone, desenvolvido no BootCamp de Web Developer da Digital Innovation One: https://digitalinnovation.one/
