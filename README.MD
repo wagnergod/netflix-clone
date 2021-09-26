@@ -1,6 +1,6 @@
 # Netflix Clone
 
-**Desenvolvimento de uma releitura da página principal do Netflix**
+**Desenvolvimento da página principal do Netflix**
 
 Projeto desenvolvido no BootCamp de Web Developer da Digital Innovation One: https://digitalinnovation.one/
 
